@@ -7,7 +7,7 @@
   ru.description=" Служит для указания реквизитов фирм ОГРН, ИНН, КПП"
   shortdescription="Rekvizit"
   ru.shortdescription="Реквизиты компаний"
-  version="0.5_2019-05.17">
+  version="0.6_2020-05.02">
                     
   <group name="Annotation">
     <item name="Реквизиты" type="node,closedway,multipolygon" preset_name_label="true" icon="Rekvizit_32.png">
