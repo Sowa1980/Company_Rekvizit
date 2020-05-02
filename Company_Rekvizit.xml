@@ -9,7 +9,7 @@
   ru.shortdescription="Реквизиты компаний"
   version="0.6_2020-05.02">
                     
-  <group name="Annotation" icon="Rekvizit.png" >
+  <group name="Annotation" Rekvizit-min.png" >
     <item name="Реквизиты" type="node,closedway,multipolygon" preset_name_label="true" icon="Rekvizit.png">
       <space/>
       <text key="operator:ref:ogrn" text="ОГРН" match="key"/>
