@@ -2,6 +2,7 @@
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
   author="Sowa1980, Alexander-II;"
   link="https://wiki.openstreetmap.org/wiki/RU:Key:operator"
+  icon="Rekvizit_32.svg"
   description="Company_Rekvizit"
   ru.description=" Служит для указания реквизитов фирм ОГРН, ИНН, КПП"
   shortdescription="Rekvizit"
