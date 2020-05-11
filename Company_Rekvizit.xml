@@ -4,7 +4,7 @@
   link="https://wiki.openstreetmap.org/wiki/RU:Key:operator"
   icon="Rekvizit_32.svg"
   description="Company_Rekvizit"
-  ru.description=" Служит для указания реквизитов фирм ОГРН, ИНН, КПП"
+  ru.description=" Служит для указания реквизитов фирм ИНН, ОГРН, КПП, ОКПО, ОКОГУ, ОКОПФП"
   shortdescription="Rekvizit"
   ru.shortdescription="Реквизиты компаний"
   version="0.6_2020-05.02">
