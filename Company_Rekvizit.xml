@@ -17,7 +17,7 @@
       <text key="operator:ref:kpp" text="КПП" match="key"/>
       <text key="operator:ref:okpo" text="ОКПО" match="key"/>
       <text key="operator:ref:okogu" text="ОКОГУ" match="key"/>
-      <text key="operator:ref:okopf" text="ОКОПФ match="key"/>
+      <text key="operator:ref:okopf" text="ОКОПФ" match="key"/>
 	  <link href="https://wiki.openstreetmap.org/wiki/RU:Key:operator"/>
     </item>
   </group>
