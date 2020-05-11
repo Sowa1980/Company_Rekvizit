@@ -16,6 +16,7 @@
       <text key="operator:ref:inn" text="ИНН" match="key"/>
       <text key="operator:ref:kpp" text="КПП" match="key"/>
       <text key="operator:ref:okpo" text="ОКПО" match="key"/>
+      <text key="operator:ref:okgu" text="ОКОГУ" match="key"/>
 	  <link href="https://wiki.openstreetmap.org/wiki/RU:Key:operator"/>
     </item>
   </group>
