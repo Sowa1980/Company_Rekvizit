@@ -1,4 +1,4 @@
-# ![icon] https://github.com/Sowa1980/Company_Rekvizit_preset/blob/master/Rekvizit-min.png Реквизиты компаний
+# ![icon](https://github.com/Sowa1980/Company_Rekvizit_preset/blob/master/Rekvizit-min.png) Реквизиты компаний
 Набор заготовок для [JOSM](https://josm.openstreetmap.de/), служит для указания реквизитов организации ОГРН, ИНН, КПП
 ## Основана [на вики страницы](https://wiki.openstreetmap.org/wiki/RU:Key:operator)
 ### Установка
