@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+  author="Sowa1980, Alexander-II;"
+  link="https://wiki.openstreetmap.org/wiki/RU:Key:operator"
+  icon="Rekvizit_32.svg"
+  description="Company_Rekvizit"
+  ru.description="Служит для указания реквизитов фирм ИНН, ОГРН, КПП, ОКПО, ОКОГУ, ОКОПФП"
+  shortdescription="Rekvizit"
+  ru.shortdescription="Реквизиты компаний"
+  version="0.6_2020-05.02">
+                    
+  <group name="Annotation" icon="Rekvizit_32.svg" >
+    <item name="Реквизиты" type="node,closedway,multipolygon" preset_name_label="true" icon="Rekvizit_32.svg">
+      <space/>
+      <text key="operator:ref:ogrn" text="ОГРН" match="key"/>
+      <text key="operator:ref:inn" text="ИНН" match="key"/>
+      <text key="operator:ref:kpp" text="КПП" match="key"/>
+      <text key="operator:ref:okpo" text="ОКПО" match="key"/>
+      <text key="operator:ref:okogu" text="ОКОГУ" match="key"/>
+      <text key="operator:ref:okopf" text="ОКОПФ" match="key"/>
+	  <link href="https://wiki.openstreetmap.org/wiki/RU:Key:operator"/>
+    </item>
+  </group>
+</presets>
